@@ -1,7 +1,7 @@
 #usr/bin/python
 # -*- coding: UTF-8 -*-
 
-## Authors Leo Liu, liuqi.au@gmail.com
+## Authors Leo Liu
 ## Version v1.0
 
 
